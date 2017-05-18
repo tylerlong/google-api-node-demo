@@ -1,0 +1,7 @@
+{
+  "name": "google-api-node-demo",
+  "version": "0.1.0",
+  "dependencies": {
+    "googleapis": "^19.0.0"
+  }
+}
